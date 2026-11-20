@@ -1,0 +1,15 @@
+[
+  {"slug": "ladroes", "nome": "ZAP Ladrões de TV 📺", "place": 92767563240303, "desc": "Roube as TVs dos outros, fuja e guarde na sua base!", "destaque": true},
+  {"slug": "lanche", "nome": "ZAP Lanche dos Bichos 🍪", "place": 105285988614750, "desc": "Jogue lanches nos bichos famintos e fique rico!", "destaque": true},
+  {"slug": "pesca", "nome": "ZAP Pesca dos Bichos 🎣", "place": 111598579883867, "desc": "Lance a vara e pesque bichos raros no píer!", "destaque": true},
+  {"slug": "pets", "nome": "ZAP PETS 📺 Tycoon", "place": 119524001978970, "desc": "Ligue TVs mágicas e colecione bichinhos. Todos os jogos dão presente aqui!", "destaque": true},
+  {"slug": "city", "nome": "ZAP City 🚓 Polícia e Ladrão", "place": 83373265919326, "desc": "Escolha seu lado: roube o banco ou prenda os ladrões."},
+  {"slug": "chute", "nome": "ZAP Chute na Caixa 📦", "place": 88362796408611, "desc": "Chute caixas-surpresa e ganhe moedas e bichos."},
+  {"slug": "limonada", "nome": "ZAP Limonada dos Bichos 🍋", "place": 130933222015067, "desc": "Colha limões, faça limonada e monte sua barraquinha."},
+  {"slug": "corrida", "nome": "ZAP Corrida Obby", "place": 133820166234499, "desc": "12 fases no céu: corra, pule e voe até o fim."},
+  {"slug": "horta", "nome": "ZAP Horta dos Bichos 🥕", "place": 109527056287580, "desc": "Plante, regue e colha na sua horta."},
+  {"slug": "cuida", "nome": "ZAP Cuida do Bicho 🐾", "place": 105674589155674, "desc": "Adote um bichinho e cuide dele: comida, sono e carinho."},
+  {"slug": "torre", "nome": "ZAP Torre dos Bichos", "place": 132413220081268, "desc": "Suba 10 andares de obstáculos até o topo."},
+  {"slug": "vila", "nome": "ZAP Vila dos Bichos 🏡", "place": 92431177332839, "desc": "Escolha sua casa e decore com móveis."},
+  {"slug": "encontre", "nome": "ZAP Encontre os Bichos", "place": 115729953674744, "desc": "Ache os 40 bichos escondidos pela ilha."}
+]
