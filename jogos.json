@@ -98,5 +98,11 @@
   "nome": "ZAP Futebol dos Bichos",
   "place": 121253872235848,
   "desc": "Escolha o time Azul ou Vermelho e faça gol no estádio dos bichos."
+ },
+ {
+  "slug": "cozinha",
+  "nome": "ZAP Cozinha dos Bichos",
+  "place": 132696955182108,
+  "desc": "Cozinhe os pedidos dos bichos no restaurante ZAP."
  }
 ]
