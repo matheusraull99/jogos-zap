@@ -134,5 +134,11 @@
   "nome": "ZAP Aspirador de Bolinhas",
   "place": 110804257453569,
   "desc": "Aspire as bolinhas coloridas e venda na reciclagem."
+ },
+ {
+  "slug": "defesa",
+  "nome": "ZAP Defesa dos Bichos",
+  "place": 133378841066177,
+  "desc": "Coloque bichos nos tablados e proteja o castelo das gosmas."
  }
 ]
