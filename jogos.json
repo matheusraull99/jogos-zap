@@ -104,5 +104,35 @@
   "nome": "ZAP Cozinha dos Bichos",
   "place": 132696955182108,
   "desc": "Cozinhe os pedidos dos bichos no restaurante ZAP."
+ },
+ {
+  "slug": "tsunami",
+  "nome": "ZAP Fuja do Tsunami",
+  "place": 95035826409142,
+  "desc": "Pegue bichos na praia e fuja antes que o tsunami chegue."
+ },
+ {
+  "slug": "sorteio",
+  "nome": "ZAP Bichos Raros",
+  "place": 120126031840019,
+  "desc": "Role e descubra bichos raros em 7 raridades."
+ },
+ {
+  "slug": "ragdoll",
+  "nome": "ZAP Bicho Ragdoll",
+  "place": 82183252543508,
+  "desc": "Saia do canhão e voe como boneco de pano pelo campo."
+ },
+ {
+  "slug": "evolucao",
+  "nome": "ZAP Evolução dos Bichos",
+  "place": 131442542383127,
+  "desc": "Coma frutinhas e evolua do Ovinho ao Dragão de Lava."
+ },
+ {
+  "slug": "aspirador",
+  "nome": "ZAP Aspirador de Bolinhas",
+  "place": 110804257453569,
+  "desc": "Aspire as bolinhas coloridas e venda na reciclagem."
  }
 ]
