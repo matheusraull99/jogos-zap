@@ -140,5 +140,29 @@
   "nome": "ZAP Defesa dos Bichos",
   "place": 133378841066177,
   "desc": "Coloque bichos nos tablados e proteja o castelo das gosmas."
+ },
+ {
+  "slug": "escavacao",
+  "nome": "ZAP Escavação dos Bichos",
+  "place": 128043942300272,
+  "desc": "Cave a mina com a picareta: quanto mais fundo, mais valioso."
+ },
+ {
+  "slug": "velocidade",
+  "nome": "ZAP Velocidade dos Bichos",
+  "place": 129004266522063,
+  "desc": "Ganhe +1 de velocidade por segundo e corra pela pista."
+ },
+ {
+  "slug": "lava",
+  "nome": "ZAP Chão é Lava",
+  "place": 124184084104867,
+  "desc": "A lava sobe sem parar: pule nas plataformas e suba!"
+ },
+ {
+  "slug": "desastres",
+  "nome": "ZAP Desastres dos Bichos",
+  "place": 83069741682974,
+  "desc": "Sobreviva a um desastre diferente a cada rodada."
  }
 ]
