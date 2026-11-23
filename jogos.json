@@ -164,5 +164,11 @@
   "nome": "ZAP Desastres dos Bichos",
   "place": 83069741682974,
   "desc": "Sobreviva a um desastre diferente a cada rodada."
+ },
+ {
+  "slug": "obby100",
+  "nome": "ZAP Obby 100 Fases",
+  "place": 123144779045357,
+  "desc": "100 fases de obby com os bichos ZAP e progresso salvo."
  }
 ]
