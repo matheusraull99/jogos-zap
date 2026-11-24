@@ -166,6 +166,30 @@
   "desc": "Sobreviva a um desastre diferente a cada rodada."
  },
  {
+  "slug": "labirinto",
+  "nome": "ZAP Labirinto dos Bichos",
+  "place": 118548663767377,
+  "desc": "Entre nos labirintos e encontre os bichos perdidos."
+ },
+ {
+  "slug": "pulo",
+  "nome": "ZAP Pulo dos Bichos",
+  "place": 122649625787482,
+  "desc": "Ganhe +1 de pulo por segundo e suba a torre gigante."
+ },
+ {
+  "slug": "forca",
+  "nome": "ZAP Força dos Bichos",
+  "place": 81333727342554,
+  "desc": "Treine, fique forte e quebre muros de caixas fofas."
+ },
+ {
+  "slug": "fazendatycoon",
+  "nome": "ZAP Fazenda Magnata",
+  "place": 125354627539534,
+  "desc": "Monte sua fazenda: ovos, leite e cenouras viram moedas."
+ },
+ {
   "slug": "obby100",
   "nome": "ZAP Obby 100 Fases",
   "place": 123144779045357,
