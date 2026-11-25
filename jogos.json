@@ -224,5 +224,11 @@
   "nome": "ZAP Fuja do Bicho Gigante",
   "place": 127260903684728,
   "desc": "Corra do bicho gigante e fofo que quer te abraçar!"
+ },
+ {
+  "slug": "piano",
+  "nome": "ZAP Piano dos Bichos",
+  "place": 102740822876643,
+  "desc": "Pise nas teclas do piano gigante e toque com os bichos."
  }
 ]
