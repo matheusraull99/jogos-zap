@@ -194,5 +194,35 @@
   "nome": "ZAP Obby 100 Fases",
   "place": 123144779045357,
   "desc": "100 fases de obby com os bichos ZAP e progresso salvo."
+ },
+ {
+  "slug": "pintar",
+  "nome": "ZAP Pintando o Mundo",
+  "place": 112726641028020,
+  "desc": "Pinte a vila cinza dos bichos e ganhe bichos novos."
+ },
+ {
+  "slug": "memoria",
+  "nome": "ZAP Memória dos Bichos",
+  "place": 130599357520462,
+  "desc": "Jogo da memória gigante com os bichos ZAP e o Simon."
+ },
+ {
+  "slug": "chocadeira",
+  "nome": "ZAP Chocadeira dos Bichos",
+  "place": 115814491714026,
+  "desc": "Junte moedinhas e choque ovos cheios de bichos ZAP."
+ },
+ {
+  "slug": "noite",
+  "nome": "ZAP Sobrevivência da Noite",
+  "place": 102534807894432,
+  "desc": "Mantenha a fogueira acesa e sobreviva às noites."
+ },
+ {
+  "slug": "fuja",
+  "nome": "ZAP Fuja do Bicho Gigante",
+  "place": 127260903684728,
+  "desc": "Corra do bicho gigante e fofo que quer te abraçar!"
  }
 ]
