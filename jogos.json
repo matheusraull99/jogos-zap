@@ -230,5 +230,29 @@
   "nome": "ZAP Piano dos Bichos",
   "place": 102740822876643,
   "desc": "Pise nas teclas do piano gigante e toque com os bichos."
+ },
+ {
+  "slug": "trampolim",
+  "nome": "ZAP Trampolim Gigante",
+  "place": 102836036548279,
+  "desc": "Pule nos trampolins e voe até as ilhas flutuantes."
+ },
+ {
+  "slug": "plataformas",
+  "nome": "ZAP Plataformas que Caem",
+  "place": 72179051111830,
+  "desc": "Corra nas placas que caem e seja o último em pé."
+ },
+ {
+  "slug": "balao",
+  "nome": "ZAP Balão Voador",
+  "place": 109641842140000,
+  "desc": "Suba no balão de ar quente até as nuvens e a Lua."
+ },
+ {
+  "slug": "lenhador",
+  "nome": "ZAP Lenhador dos Bichos",
+  "place": 137067930782814,
+  "desc": "Corte árvores com machado de pelúcia e venda as toras."
  }
 ]
